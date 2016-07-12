@@ -1,0 +1,11 @@
+.fixed-height{
+  height: 180px;
+}
+
+body{
+  background: #e1e7ed; /* Old browsers */
+  background: -moz-linear-gradient(top, #e1e7ed 0%, #8b889b 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #e1e7ed 0%,#8b889b 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #e1e7ed 0%,#8b889b 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e1e7ed', endColorstr='#8b889b',GradientType=0 );
+}
